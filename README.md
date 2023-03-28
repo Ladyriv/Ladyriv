@@ -1,14 +1,15 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 85%" />
+<div align= "center"> 
+<h2 align="center">Soy Leidy, Desarrolladora Web Full Stack  👨‍💻 🚀</h2>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 55%" />
 </div>  
+     
+ 
   
-### <div align="center">Soy Leidy, Desarrolladora Web Full Stack  👨‍💻  🚀</div>  
-  
-
 ## My Skill Set  
 
  
-<div align="center">  
+<div align="center">
+  <img align='left' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="330">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -23,7 +24,17 @@
 
   
 
+<br/> 
+
 <br/>  
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 ## Connect with me  
